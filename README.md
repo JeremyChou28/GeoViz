@@ -32,6 +32,12 @@ filters(ST Filter) and supports dynamic spatio-temporal interactions(ST Interact
 
 **Demo data**
 
+Users can upload their own spatio-temporal knowledge graph (STKG) data to complete their customization needs.
 
+Here we give a demo data for case study.
+
+`demo_data/node_data.csv` is the entity data in STKG.
+
+`demo_data/edge_data.csv` is the relationship data between entities in STKG.
 
 **Demo video**
