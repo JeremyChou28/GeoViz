@@ -5,7 +5,7 @@ We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzi
 
 ## Workflow
 
-![workflow](https://github.com/JeremyChou28/GeoViz/blob/main/workflow.pdf)
+![workflow.pdf](https://github.com/JeremyChou28/GeoViz/blob/main/workflow.pdf)
 
 Figure 1 shows the workflow of our platform.
 
