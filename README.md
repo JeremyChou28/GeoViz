@@ -5,7 +5,7 @@ We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzi
 
 ## Workflow
 
-![image](https://github.com/JeremyChou28/GeoViz/blob/main/workflow.pdf)
+![workflow](https://github.com/JeremyChou28/GeoViz/blob/main/workflow.pdf)
 
 Figure 1 shows the workflow of our platform.
 
@@ -16,14 +16,14 @@ Figure 1 shows the workflow of our platform.
 
 ## Discussion
 
-|      Tools      | Tree-Net-Map(multi-view) | ST Filter | ST Interaction | Knowledge Discovery | Open Source |
-| :-------------: | :----------------------: | :-------: | :------------: | :-----------------: | :---------: |
-|      D3.js      |            ×             |     ×     |       ×        |          ×          |      √      |
-|     Vis.js      |            ×             |     ×     |       ×        |          ×          |      √      |
-|     Echarts     |            ×             |     ×     |       ×        |          ×          |      √      |
-|     Antv G6     |            ×             |     ×     |       ×        |          ×          |      √      |
-| Neo4j(Database) |            ×             |     √     |       √        |          ×          |      √      |
-|   **GeoViz**    |            √             |     √     |       √        |          √          |      √      |
+|                        Tools                        | Tree-Net-Map(multi-view) | ST Filter | ST Interaction | Knowledge Discovery | Open Source |
+| :-------------------------------------------------: | :----------------------: | :-------: | :------------: | :-----------------: | :---------: |
+|             [D3.js](https://d3js.org/)              |            ×             |     ×     |       ×        |          ×          |      √      |
+|            [Vis.js](https://visjs.org/)             |            ×             |     ×     |       ×        |          ×          |      √      |
+| [Echarts](https://echarts.apache.org/zh/index.html) |            ×             |     ×     |       ×        |          ×          |      √      |
+|       [Antv G6](https://antv-g6.gitee.io/zh/)       |            ×             |     ×     |       ×        |          ×          |      √      |
+|        [Neo4j(Database)](https://neo4j.com/)        |            ×             |     √     |       √        |          ×          |      √      |
+|        **[GeoViz](https://mdkg.acemap.cn/)**        |            √             |     √     |       √        |          √          |      √      |
 
 **GeoViz** is the first concentrated on *Tree-Net-Map* multi-view visual platform for STKG. Moreover, **GeoViz** has spatio-temporal
 filters(ST Filter) and supports dynamic spatio-temporal interactions(ST Interaction). In addition, **GeoViz** also provides the function of autonomous knowledge discovery. Although Neo4j provides a web user interface for knowledge graph visualization, it requires interaction through the *Cypher* programming language, which is unfriendly to users. Last but not least, **GeoViz**, like mainstream visualization tools, is open-source.
