@@ -1,7 +1,7 @@
 # GeoViz: A Multi-View Visual Platform for Spatio-temporal Knowledge Graph
 ## Overview
 
-We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely *knowledge tree*, *knowledge net*, and *knowledge map*. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via https://mdkg.acemap.cn/.
+We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely *knowledge tree*, *knowledge net*, and *knowledge map*. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via [https://mdkg.acemap.cn/](https://mdkg.acemap.cn/).
 
 ## How to use GeoViz?
 
