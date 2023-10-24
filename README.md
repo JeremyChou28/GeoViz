@@ -37,6 +37,10 @@ Password: `geoviztest`
 **Demo video**
 
 
+https://github.com/JeremyChou28/GeoViz/assets/62065951/5278c3e6-feca-49dc-aa70-21d526ebadba
+
+
+
 
 ## Discussion
 
