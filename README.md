@@ -30,9 +30,9 @@ Here we give a demo data for case study.
 
 We apply the User System to protect user data. Here, we provide a set of username and password for testing.
 
-Username: 
+Username: `geoviztest`
 
-Password:
+Password: `geoviztest`
 
 **Demo video**
 
