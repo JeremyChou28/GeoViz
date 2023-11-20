@@ -1,5 +1,3 @@
-![workflow](https://github.com/JeremyChou28/GeoViz/blob/main/geoviz_logo.jpg)
-
 # GeoViz: A Multi-View Visual Platform for Spatio-temporal Knowledge Graph
 
 ## Overview
