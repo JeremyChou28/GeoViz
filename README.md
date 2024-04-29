@@ -1,8 +1,10 @@
 # GeoViz: A Multi-View Visual Platform for Spatio-temporal Knowledge Graph
 
+[demo video](https://youtu.be/atH23KQ7Lyw)
+
 ## Overview
 
-We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely *knowledge tree*, *knowledge net*, and *knowledge map*. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via [https://mdkg.acemap.cn/](https://mdkg.acemap.cn/).
+We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely *knowledge tree*, *knowledge net*, and *knowledge map*. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via [https://mdkg.acemap.cn/#/service](https://mdkg.acemap.cn/#/service).
 
 **For a better user experience, GeoViz will continuous to update.**
 
@@ -30,19 +32,6 @@ Here we give a demo data for case study.
 `demo_data/node_data.csv` is the entity data in STKG.
 
 `demo_data/edge_data.csv` is the relationship data between entities in STKG.
-
-We apply the User System to protect user data. Here, we provide a set of username and password for testing.
-
-Username: `geoviztest`
-
-Password: `geoviztest`
-
-**Demo video**
-
-
-https://github.com/JeremyChou28/GeoViz/assets/62065951/5278c3e6-feca-49dc-aa70-21d526ebadba
-
-
 
 
 ## Discussion
