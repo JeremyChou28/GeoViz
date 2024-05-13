@@ -1,10 +1,10 @@
 # GeoViz: A Multi-View Visual Platform for Spatio-temporal Knowledge Graph
 
-[demo video](https://youtu.be/atH23KQ7Lyw)
+[demo video](https://youtu.be/o31xlMEmcl4)
 
 ## Overview
 
-We propose a *Tree-Net-Map* multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely *knowledge tree*, *knowledge net*, and *knowledge map*. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via [https://mdkg.acemap.cn/#/service](https://mdkg.acemap.cn/#/service).
+We propose a _Tree-Net-Map_ multi-view visualization method to assist in analyzing STKG. Specifically, we have customized three visualization modes for STKG, namely _knowledge tree_, _knowledge net_, and _knowledge map_. Our approach not only reflects the rich attributes and relationships between knowledge triplets, but also highlights the inherent spatio-temporal characteristics of knowledge triplets from three distinct perspectives. For the convenience of users, we have developed a one-stop platform called **GeoViz** to support customized visualization needs with an easy-to-use web user interface. The high level system design of our GeoViz is shown in Figure. Demo visitors can explore our services via [https://mdkg.acemap.cn/#/service](https://mdkg.acemap.cn/#/service).
 
 **For a better user experience, GeoViz will continuous to update.**
 
@@ -33,7 +33,6 @@ Here we give a demo data for case study.
 
 `demo_data/edge_data.csv` is the relationship data between entities in STKG.
 
-
 ## Discussion
 
 |                        Tools                        | Tree-Net-Map(multi-view) | ST Filter | ST Interaction | Knowledge Discovery | Open Source |
@@ -45,5 +44,5 @@ Here we give a demo data for case study.
 |        [Neo4j(Database)](https://neo4j.com/)        |            ×             |     √     |       √        |          ×          |      √      |
 |        **[GeoViz](https://mdkg.acemap.cn/)**        |            √             |     √     |       √        |          √          |      √      |
 
-**GeoViz** is the first concentrated on *Tree-Net-Map* multi-view visual platform for STKG. Moreover, **GeoViz** has spatio-temporal
-filters(ST Filter) and supports dynamic spatio-temporal interactions(ST Interaction). In addition, **GeoViz** also provides the function of autonomous knowledge discovery. Although Neo4j provides a web user interface for knowledge graph visualization, it requires interaction through the *Cypher* programming language, which is unfriendly to users. Last but not least, **GeoViz**, like mainstream visualization tools, is open-source.
+**GeoViz** is the first concentrated on _Tree-Net-Map_ multi-view visual platform for STKG. Moreover, **GeoViz** has spatio-temporal
+filters(ST Filter) and supports dynamic spatio-temporal interactions(ST Interaction). In addition, **GeoViz** also provides the function of autonomous knowledge discovery. Although Neo4j provides a web user interface for knowledge graph visualization, it requires interaction through the _Cypher_ programming language, which is unfriendly to users. Last but not least, **GeoViz**, like mainstream visualization tools, is open-source.
