@@ -1,6 +1,6 @@
 # GeoViz: A Multi-View Visual Platform for Spatio-temporal Knowledge Graph
 
-[demo video](https://youtu.be/o31xlMEmcl4)
+[demo video](https://www.youtube.com/watch?v=o31xlMEmcl4)
 
 ## Overview
 
